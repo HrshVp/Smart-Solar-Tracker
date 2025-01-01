@@ -1,5 +1,6 @@
 ﻿Name,Quantity,Component
 "U1",1," Arduino Uno R3"
 "R1, R2, R3, R4",4," Photoresistor"
-"SERVO1, SERVO2",2,"Positional Micro Servo"
-"R7, R5, R8, R6",4,"220 Ω Resistor"
+"SERVO1, SERVO2",2,"SG-90 Servo"
+"R7, R5, R8, R6",4,"10 kΩ Resistor"
+"B1",2,"3.7V Li-on Cells"
